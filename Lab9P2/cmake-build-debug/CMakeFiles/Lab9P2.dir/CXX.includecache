@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/gamma.cpp
+iostream
+-
+gamma.h
+/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/gamma.h
+
+/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/gamma.h
+
+/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/main.cpp
+iostream
+-
+gamma.h
+/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/gamma.h
+
