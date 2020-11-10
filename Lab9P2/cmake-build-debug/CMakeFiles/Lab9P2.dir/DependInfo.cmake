@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/gamma.cpp" "/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/cmake-build-debug/CMakeFiles/Lab9P2.dir/gamma.cpp.o"
   "/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/main.cpp" "/Users/shawn/Documents/GitHub/CECS282Lab9/Lab9P2/cmake-build-debug/CMakeFiles/Lab9P2.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
